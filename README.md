@@ -22,7 +22,7 @@ For this project we used [Python](https://www.python.org/) using [Turtle](https:
 
 ## You want to try it ? 
 
-Launch it on the Python IDLE using 3.x Version, and Press F5, Let's started !!  
+Launch it on the Python IDLE using 3.x Version or double click on "PacBusterV1.1.py" file, and Press F5, Let's started !!  
 
 Press 'm' or 'p' to choose the world : 
 
@@ -32,3 +32,22 @@ Press 'm' or 'p' to choose the world :
 Then you can Choose the speed of the game by typing on 'F1' to 'F4' : 
 
 ![Choose Speed !](https://i.imgur.com/2sJBsyVm.png)
+
+and play ! 
+
+![world1](https://i.imgur.com/3OhkZXLm.png)                             ![world2](https://i.imgur.com/n7fGVvYm.png)
+
+### Developpement 
+
+This project is already finished 
+
+##### BUT
+
+it may upgrade / clean the code in few months 
+
+
+## Thanks to feed back 
+
+If you like this project, thanks to give your opinion a help me to progress 
+
+
