@@ -2,10 +2,10 @@
 A simple copy of PacMan (Python - graphical librairy : Turtle)
 
 #############################################################
-#@Title : PacBuster                                         #
-#@Author : Ugo Bourdon | Mathieu Noyelle                    #
-#@Version : 1.1                                             #
-#@Date : 6th June, 2017                                     #
+@Title : PacBuster
+@Author : Ugo Bourdon | Mathieu Noyelle                  
+@Version : 1.1                                   
+@Date : 6th June, 2017                           
 #############################################################
 
 
